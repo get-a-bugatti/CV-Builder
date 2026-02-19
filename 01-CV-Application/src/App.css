@@ -1,0 +1,10 @@
+#gen-container, #edu-container, #exp-container {
+  margin-left: 30px;
+  border: 2px solid rgb(168, 168, 168);
+  padding: 20px;
+}
+
+.gen-form, .edu-form, .exp-form {
+  display: flex;
+  flex-direction: column;
+}
